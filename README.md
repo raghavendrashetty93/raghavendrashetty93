@@ -2,8 +2,7 @@
 I'm Raghavendra, I am a Software Developer currently working in Mulesoft Integration area.
 
 - 💬 Ask me about Mulesoft Anypoint Platform and TIBCO Software
-- 😄 Pronouns: Raghav, Raghu
-
+- 📫 How to reach me: [...](https://www.linkedin.com/in/raghavendra-shetty-h/)
   
 <!--
 - 🔭 I’m currently working on ...
