@@ -2,8 +2,8 @@
 I'm Raghavendra, I am a Software Developer currently working in Mulesoft Integration area.
 
 - 💬 Ask me about Mulesoft Anypoint Platform and TIBCO Software
-- 📫 How to reach me: [...](https://www.linkedin.com/in/raghavendra-shetty-h/)
-  
+- 📫 How to reach me: [Raghavendra Shetty](https://www.linkedin.com/in/raghavendra-shetty-h/)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
