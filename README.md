@@ -3,7 +3,7 @@ I'm Raghavendra, I am a Software Developer currently working in Mulesoft Integra
 
 ## Ⓜ️ MuleSoft Repos
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-rabbitmq-implementation&theme=jolly)]([https://github.com/raghavendrashetty93/mule-rabbitmq-implementation](https://github.com/raghavendrashetty93/mule-rabbitmq-implementation))
+[![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-rabbitmq-implementation&theme=jolly)](https://github.com/raghavendrashetty93/mule-rabbitmq-implementation)
 
 <!--
 **raghavendrashetty93/raghavendrashetty93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
