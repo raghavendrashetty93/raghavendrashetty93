@@ -21,8 +21,7 @@ I'm Raghavendra, I am a Software Developer currently working in Mulesoft Integra
 [![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-servicenow-implementation&theme=github_dark)](https://github.com/raghavendrashetty93/mule-servicenow-implementation)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-circuit-breaker-implementation&theme=github_dark)](https://github.com/raghavendrashetty93/mule-circuit-breaker-implementation)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-apimanager-automation&theme=github_dark)](https://github.com/raghavendrashetty93/mule-apimanager-automation)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-simple-pagination-implementation&theme=github_dark)]([https://github.com/raghavendrashetty93/mule-apimanager-automation](https://github.com/raghavendrashetty93/mule-simple-pagination-implementation))
+[![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-simple-pagination-implementation&theme=github_dark)]([https://github.com/raghavendrashetty93/mule-apimanager-automation])
 
 
 <!--
