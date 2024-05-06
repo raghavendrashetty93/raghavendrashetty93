@@ -20,6 +20,8 @@ I'm Raghavendra, I am a Software Developer currently working in Mulesoft Integra
 [![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-rabbitmq-implementation&theme=github_dark)](https://github.com/raghavendrashetty93/mule-rabbitmq-implementation)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-servicenow-implementation&theme=github_dark)](https://github.com/raghavendrashetty93/mule-servicenow-implementation)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-circuit-breaker-implementation&theme=github_dark)](https://github.com/raghavendrashetty93/mule-circuit-breaker-implementation)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=raghavendrashetty93&repo=mule-simple-pagination-implementation&theme=github_dark)](https://github.com/raghavendrashetty93/mule-simple-pagination-implementation)
+
 
 <!--
 **raghavendrashetty93/raghavendrashetty93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
